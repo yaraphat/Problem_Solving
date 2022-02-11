@@ -3,7 +3,7 @@ package leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-public class RomanToInteger {
+public class RomanToInteger13 {
     public static int romanToInt(String s) {
         if (s == null || s.isEmpty()) return 0;
         Map<Character, Integer> romanToDecimalMap = new HashMap<>();

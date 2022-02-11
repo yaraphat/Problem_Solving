@@ -1,6 +1,6 @@
 package leetcode;
 
-public class MoveZeroes {
+public class MoveZeroes283 {
     public void moveZeroes(int[] nums) {
 
         int insertionIndex = 0;
