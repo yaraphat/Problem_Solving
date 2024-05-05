@@ -8,7 +8,7 @@ public class BestTimeBuySellStock121 {
         System.out.println(maxProfit);
     }
 
-    public int maxProfit(int[] prices) {
+    public static int maxProfit(int[] prices) {
         int min = 10000, max = 0, maxProfit = 0;
         for (int i = 0; i < prices.length; i++) {
             int num = prices[i];
