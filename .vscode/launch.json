@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JumpGame150",
+            "request": "launch",
+            "mainClass": "leetcode.JumpGame150",
+            "projectName": "Problem_Solving_b05afe9a"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
